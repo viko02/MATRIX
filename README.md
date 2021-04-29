@@ -1,19 +1,4 @@
-
-
 <item>
-
-<title>[B]TESTE  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-
-<link>http://103.91.144.230/ftpdata/TV-Show/English/Game%20Of%20Thrones/Season%201/Game.of.Thrones.S01E01.480p.HDTV.nSD.x264-NhaNc3.mkv</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item><item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 <title>Mulher-Maravilha (2017)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0F966EA30F74EE5E62E001FBC0856E7DB37A813&dn=Mulher-Maravilha%202017%20%5bBluRay%5d%20%281080p%29%20FULL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 
